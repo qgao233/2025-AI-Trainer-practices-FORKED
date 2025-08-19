@@ -178,3 +178,5 @@ practices/**/*-*.jpg
 practices/**/*.html
 practices/**/2.2.1_results_xg.txt
 practices/**/3.1.1-*.docx
+
+.idea/
